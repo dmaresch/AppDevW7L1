@@ -1,0 +1,14 @@
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\AppDevW7L1.csprojAssemblyReference.cache
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\AppDevW7L1.csproj.CoreCompileInputs.cache
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\AppDevW7L1.AssemblyInfoInputs.cache
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\AppDevW7L1.AssemblyInfo.cs
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\bin\Debug\netstandard2.0\AppDevW7L1.deps.json
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\bin\Debug\netstandard2.0\AppDevW7L1.dll
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\bin\Debug\netstandard2.0\ref\AppDevW7L1.dll
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\bin\Debug\netstandard2.0\AppDevW7L1.pdb
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\AppDevW7L1.dll
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\ref\AppDevW7L1.dll
+C:\Users\DubDubChan\Source\Repos\AppDevW7L1\AppDevW7L1\AppDevW7L1\obj\Debug\netstandard2.0\AppDevW7L1.pdb
